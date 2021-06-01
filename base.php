@@ -14,7 +14,9 @@
   To get the file to work, you must place it somewhere where your
   Apache server can run it, and you must rename it to have a ".php"
   extension.  You must also change the username and password on the 
-  OCILogon below to be your ORACLE username and password -->
+  OCILogon below to be your ORACLE username and password 
+  
+  This is the project for group 33-->
 
 <html>
     <head>
