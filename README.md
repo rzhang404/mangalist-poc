@@ -1,5 +1,5 @@
 # mangalist
-woah
+🌿 🎋 woah
 welcome
 to
 our
