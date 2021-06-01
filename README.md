@@ -1,4 +1,4 @@
-# mangalist-poc
+# mangalist
 woah
 welcome
 to
